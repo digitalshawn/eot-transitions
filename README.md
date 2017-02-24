@@ -15,15 +15,10 @@ This project came about as part of the Archives Unleashed 3.0 event hosted at th
 
 ## Metrics for measuring change
 The team brainstormed various achievable metrics for observing change in the web presence of each administration.
-
-### Side-by-Side Visual
-We used XTML->PDF to first produce thumbnails for each memento for the home page of the 6 chosen domains. This was used as a preliminary mechanism to visualise broad scale change 
-
-### Simhash Distance
-
-### Edit Distance
-
-### Link Structure
+* Side-by-Side Visual
+* Simhash Distance
+* Edit Distance
+* Link Structure
 
 ## Regresssion Analysis
 We propose three possible mechanisms that can explain the variations in the rate of change of governmental websites during the period of term transition.
@@ -40,7 +35,9 @@ Results:
 1. Power transistions between the two parties reduces the rate of change of the Whitehouse webiste. But the transitions lead to an increase in the change rate of the websites of EPA, HHS, and VA.
 2. Distance to the inauguration date increase the rate of change of the Whitehouse website.
 
-Future directions:
-1. Explaining why power transitions can generate differtial effects on the rate of change of different governmental websites.
 ## Broad Findings
+
+## Future directions
+1. Explaining why power transitions can generate differtial effects on the rate of change of different governmental websites.
+
 
