@@ -20,6 +20,7 @@ The team brainstormed various achievable metrics for observing change in the web
 
 ### Link Structure
 
-## Findings
+## Regresssion Analysis
 
-# Regresssion Analysis
+## Broad Findings
+
