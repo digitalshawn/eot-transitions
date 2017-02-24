@@ -1,9 +1,10 @@
-# eot-transitions
+# End of Term Transitions
 
 # Project Background
-Archives unleashed 3 - characterizing change during US Presidential transitions
+Archives Unleashed 3 - interested in characterizing change in web archives during and across US Presidential transitions. The project was started...
 
-# Some metrics for measuring change
+# Metrics for measuring change
+The team brainstormed various achievable metrics for observing change in the web presence of each administration. The results and methods used to calculate each are described below:
 
 ## Side-by-Side Visual
 
