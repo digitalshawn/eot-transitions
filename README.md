@@ -1,9 +1,13 @@
 # End of Term Transitions
 
 Mohamed Aturban (Old Dominion University)
+
 Justin Littman (George Washington University)
+
 Jessica Ogden (University of Southampton)
+
 Yu Xu (University of Southern California)
+
 Shawn Walker (University of Washington)
 
 ## Project Background
