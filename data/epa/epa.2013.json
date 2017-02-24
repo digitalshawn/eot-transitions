@@ -9,7 +9,7 @@
     {"v": 27},
     {"v": 0},
              {"v": "http://web.archive.org/web/20130101065220id_/http://www.epa.gov/"},
-             {"v": "https://github.com/digitalshawn/eot-transitions/blob/master/thumbnails/epa/2013/thumb-epa.gov-20130101065220.png"}
+             {"v": "<img src=\"https://github.com/digitalshawn/eot-transitions/blob/master/thumbnails/epa/2013/thumb-epa.gov-20130101065220.png\">"}
         ]},
          {"c":[{"v": "Date(2013, 1, 3)", "f": "1/3/13"},
            {"v": 0},
