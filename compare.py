@@ -1,13 +1,11 @@
 import requests
 import argparse
 import os
-import html2text
 from nltk.tokenize import wordpunct_tokenize as nltk_tokenize
 from nltk.stem.porter import PorterStemmer
 from nltk.downloader import download
 # Note: install with pip install scikit-learn[alldeps]
 from sklearn.feature_extraction.text import TfidfVectorizer
-from scipy.spatial.distance import cosine
 import unicodedata
 import sys
 from nltk.metrics.distance import edit_distance as nltk_edit_distance
@@ -89,4 +87,4 @@ if __name__ == '__main__':
     print('tf-idf score is {}. Edit distance is {}.'.format(tfidf_score, edit_distance_score))
 
 # To setup:
-# pip install html2text nltk numpy request scikit-learn scipy sklearn
+# pip install beautifulsoup4 nltk numpy request scikit-learn scipy sklearn
