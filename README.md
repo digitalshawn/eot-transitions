@@ -13,7 +13,7 @@ This project came about as part of the Archives Unleashed 3.0 event hosted at th
 The team brainstormed various achievable metrics for observing change in the web presence of each administration.
 
 ### Side-by-Side Visual
-We used -- to first produce thumbnails for each memento for the home page of the 6 chosen domains. This was used as a preliminary mechanism to visualise broad scale change 
+We used -- to first produce thumbnails for each memento (queried from the CDX server in the Internet Archive's Wayback Machine) for the home page of the 6 chosen domains. This was used as a preliminary mechanism to visualise broad scale change, and as a potential way to deep dive into the web archives. 
 
 ### Simhash Distance
 
@@ -21,7 +21,7 @@ We used -- to first produce thumbnails for each memento for the home page of the
 
 ### Link Structure
 
-## Regresssion Analysis
+## Regression Analysis
 
 ## Broad Findings
 
