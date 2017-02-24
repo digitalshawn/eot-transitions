@@ -1,0 +1,709 @@
+<html lang="en">
+
+ <HEAD>
+
+  <TITLE>Welcome to the White House</TITLE>
+
+  
+<meta name="date"                 content="2001-01-01">
+<meta name="description"          content="Whitehouse.gov is the official web site for the White House and President George W. Bush, the 43rd President of the United States. This site is a source for information about the President, White House news and policies, White House history, the federal government">
+<meta name="keywords"             content="social security, medicare, energy, tax relief, Education, policies, White House history, White House news, news, United States of America, 43rd President, George W., W., George W, President George W. Bush, President Bush, White House, government">
+
+
+  
+  <SCRIPT language=javascript SRC="/js/navbar.js"></SCRIPT>
+
+  <style type="text/css">
+   A:link { text-decoration: none }
+   A:active { text-decoration: none }
+   A:visited { text-decoration: none }
+   A:hover { color: #003399; text-decoration: underline }
+  </style>
+
+
+ </HEAD>
+
+ <BODY BGCOLOR="#FFFFFF" LINK="#003399" VLINK="#990000" ALINK="#666699" MARGINHEIGHT="0" MARGINWIDTH="0" LEFTMARGIN="0" TOPMARGIN="0" onLoad="MM_preloadImages('/images/header3/home_on_r2_c5.jpg','#1');MM_preloadImages('/images/header3/home_on_r2_c7.jpg','#2');MM_preloadImages('/images/header3/home_on_r2_c8.jpg','#3');MM_preloadImages('/images/header3/home_on_r2_c11.jpg','#4');MM_preloadImages('/images/header3/home_on_r2_c15.jpg','#5');MM_preloadImages('/images/header3/home_on_r2_c18.jpg','#6');MM_preloadImages('/images/header3/home_on_r3_c20.jpg','#7');MM_preloadImages('/images/header3/home_on_r3_c6.jpg','#8');MM_preloadImages('/images/header3/home_on_r3_c9.jpg','#9');MM_preloadImages('/images/header3/home_on_r3_c12.jpg','#10');MM_preloadImages('/images/header3/home_on_r3_c13.jpg','#11');MM_preloadImages('/images/header3/home_on_r3_c17.jpg','#12');MM_preloadImages('/images/header3/home_on_r3_c10.jpg','#13')">
+
+
+  <TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="751">
+   <TR><TD COLSPAN="3">
+<FORM name=seek method=GET action="/query.html">
+  <table border="0" cellpadding="0" cellspacing="0" width="751">
+    <tr valign="top"> 
+      <td colspan=2><A href="#content"><img name="a1" src="/images/header3/home_off_r1_c1.jpg" border="0" alt="Skip to Content" width="41" height="2"></a><a href="/text/index.html"><img name="a2" alt="Text Only" src="/images/header3/home_off_r1_c2.jpg" border="0" width="43" height="2"></a><A href="#quicksearch"><img src="/images/header3/home_off_r1_c3.jpg" name="a3" alt="Go to Search" border="0" width="40" height="2"></a><img src="/images/header3/home_off_r1_c4.jpg" alt="" width="627" height="2"></td>
+    </tr>
+    <tr> 
+      <td colspan=2><a href="/"><img src="/images/header3/home_off_r2_c1.jpg" border="0" alt="Welcome to the White House" width="84" height="20"></a><img src="/images/header3/home_off_r2_c3.jpg" alt="" width="40" height="20"><img src="/images/header3/home_off_r2_c4.jpg" alt="" width="143" height="20"><a href="/president/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t1','document.t1','/images/header3/home_on_r2_c5.jpg','#1')"><img name="t1" src="/images/header3/home_off_r2_c5.jpg" border="0" alt="President" width="61" height="20"></a><a href="/news/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t2','document.t2','/images/header3/home_on_r2_c7.jpg','#2')"><img name="t2" src="/images/header3/home_off_r2_c7.jpg" border="0" alt="News" width="58" height="20"></a><a href="/vicepresident/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t3','document.t3','/images/header3/home_on_r2_c9.jpg','#3')"><img name="t3" src="/images/header3/home_off_r2_c9.jpg" border="0" alt="Vice President" width="89" height="20"></a><a href="/history/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t4','document.t4','/images/header3/home_on_r2_c12.jpg','#4')"><img name="t4" src="/images/header3/home_off_r2_c12.jpg" border="0" alt="History & Tours" width="107" height="20"></a><a href="/firstlady/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t5','document.t5','/images/header3/home_on_r2_c16.jpg','#5')"><img name="t5" src="/images/header3/home_off_r2_c16.jpg"  border="0" alt="First Lady" width="85" height="20"></a><a href="/mrscheney/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t6','document.t6','/images/header3/home_on_r2_c20.jpg','#6')"><img name="t6" src="/images/header3/home_off_r2_c20.jpg" border="0" alt="Mrs. Cheney" width="84" height="20"></a></td>
+    </tr>
+    <tr> 
+      <td colspan=2><a href="/"><img src="/images/header3/home_off_r3_c1.jpg" border="0" alt="Welcome to the White House" width="84" height="18"></a><img src="/images/header3/home_off_r3_c3.jpg" alt="" width="183" height="18"><img src="/images/header3/home_off_r3_c5.jpg" alt="" width="35" height="18"><a href="/government/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t8','document.t8','/images/header3/home_on_r3_c6.jpg','#8')"><img name="t8" src="/images/header3/home_off_r3_c6.jpg" border="0" alt="Government" width="116" height="18"></a><a href="/kids/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t9','document.t9','/images/header3/home_on_r3_c10.jpg','#9')"><img name="t9" src="/images/header3/home_off_r3_c10.jpg"  border="0" alt="Kids Only" width="34" height="18"></a><a href="/espanol/index.es.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t13','document.t13','/images/header3/home_on_r3_c11.jpg','#13')"><img name="t13" src="/images/header3/home_off_r3_c11.jpg" border="0" alt="Espanol" width="54" height="18"></a><a href="/contact/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t10','document.t10','/images/header3/home_on_r3_c14.jpg','#10')"><img name="t10" src="/images/header3/home_off_r3_c14.jpg" border="0" alt="Contact" width="54" height="18"></a><a href="/privacy.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t11','document.t11','/images/header3/home_on_r3_c15.jpg','#11')"><img name="t11" src="/images/header3/home_off_r3_c15.jpg" border="0" alt="Privacy Policy" width="84" height="18"></a><a href="/sitemap.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t12','document.t12','/images/header3/home_on_r3_c19.jpg','#12')"><img name="t12" src="/images/header3/home_off_r3_c19.jpg" border="0" alt="SiteMap" width="54" height="18"></a><a href="/search/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.t14','document.t14','/images/header3/home_on_r3_c21.jpg','#14')"><img name="t14" src="/images/header3/home_off_r3_c21.jpg" border="0" alt="Search" width="53" height="18"></a></td>
+    </tr>
+    <tr> 
+      <td valign="top" nowrap>
+         <a href="/"><img src="/images/header3/home_off_r4_c1.jpg" border="0" alt="Welcome to the White House" width="84" height="51"><img src="/images/header3/home_off_r4_c3.jpg" alt="" border="0" width="218" height="51"><img src="/images/header3/home_off_r4_c6.jpg" alt="" border="0" width="46" height="51"></a><img src="/images/header3/home_off_r4_c8.jpg" alt="" width="129" height="51"><a href="/email/"><img src="/images/header3/home_off_r4_c13.jpg" border="0" alt="Receive Email Updates" width="123" height="51"></a><img src="/images/header3/home_off_r4_c17.jpg" alt="" width="5" height="51"></td>
+      <td valign="top" ><img src="/images/header3/home_off_r4_c18.jpg" alt="" width="93" height="26"><img src="/images/header3/home_off_r4_c21.jpg" alt="" width="53" height="26"><a name="quicksearch"></a><font face="arial, helvetica, sans serif" size="1">
+        <input type=hidden name=col value="colpics">
+        <input maxlength=2047 name=qt size=9>
+        <input name=submit type=image src="/images/header3/home_off_r5_c21.jpg" border="0" alt="Search"> 
+        </font></td>
+    </tr>
+  </table>
+</FORM>
+
+   </TD></TR>
+
+   <TR VALIGN="TOP">
+
+    <TD WIDTH="110"><TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="100%"><TR><TD>&nbsp;</TD><TD>
+
+     
+
+<table border=0 cellpadding=0 cellspacing=0 width=100>
+        <tbody> 
+        <tr valign=top> 
+          <td colspan=2> 
+            <table border=0 cellpadding=0 cellspacing=0 width=100>
+              <tr valign=top> 
+                <td colspan=2> 
+                    <a href="/infocus/index.html"><b><font size="2" face="arial, helvetica, sans
+serif" color="#990000">Issues</font></b></a>
+                </td>
+              </tr>
+              <tbody> 
+
+
+
+  <tr valign=top>
+                <td><img height=8 src="/images/square2.gif"
+                 alt="" width=5></td>
+                <td><font face="arial, helvetica, sans serif" size=1><a
+                  href="/infocus/economy/index.html">Economy</a>
+                  </font></td>
+              </tr>
+
+
+            <tr valign=top>
+                <td><img height=8 src="/images/square2.gif"
+                 alt="" width=5></td>
+                <td><font face="arial, helvetica, sans serif" size=1><a
+                  href="/infocus/iraq/">Iraq</a>
+                  </font></td>
+              </tr>
+
+   <tr valign=top>
+                <td><img height=8 src="/images/square2.gif"
+                 alt="" width=5></td>
+                <td><font face="arial, helvetica, sans serif" size=1><a
+                  href="/infocus/education/">Education</a>
+                  </font></td>
+              </tr>
+
+
+            <tr valign=top>
+                <td><img height=8 src="/images/square2.gif"
+                 alt="" width=5></td>
+                <td><font face="arial, helvetica, sans serif" size=1><a
+                  href="/response/index.html">National Security</a>
+                  </font></td>
+              </tr>
+
+
+              <tr valign=top>
+                <td><img height=8 src="/images/square2.gif"
+                 alt="" width=5></td>
+                <td nowrap><font face="arial, helvetica, sans serif" size=1><a href="/homeland/">Homeland Security</a></font></td>
+              </tr>
+
+              <tr valign=top>
+                <td><img height=8 src="/images/square2.gif"
+                 alt="" width=5></td>
+                <td><font face="arial, helvetica, sans serif" size=1><a
+                  href="/infocus/index.html">More Issues</a> </font></td>
+              </tr>
+
+  <tr valign=top>
+   <td><img height=8 src="/images/square2.gif" alt="" width=5></td>
+   <td><font face="arial, helvetica, sans serif" size=1>
+    <a href="/infocus/index.es.html">En Espa&#241;ol</a>
+   </font></td>
+  </tr>
+
+<tr valign=top>
+   <td><img height=8 src="/images/square2.gif" alt="" width=5></td>
+   <td><font face="arial, helvetica, sans serif" size=1>
+   <a href="/infocus/hurricane/2004/" style="color:#005825">Hurricane Relief</a>
+   </font></td>
+  </tr>
+
+
+
+              <tr valign=top> 
+                <td colspan="2"> 
+                  <table border=0 cellpadding=0 cellspacing=0 width=110>
+                    <tr valign=top> 
+                      <td colspan="2">
+<a href="/news/index.html"><b><font face="arial, helvetica, sans serif" size="2"
+color="#990000"><br>News</font></b></a></td>
+                    </tr>
+                    <tr valign=top> 
+                      <td><img height=8 src="/images/square2.gif" 
+                 alt="" width=5></td>
+                      <td><font face="arial, helvetica, sans serif" size=1><a 
+                  href="/news/">Current 
+                        News</a></font></td>
+                    </tr>
+<!--
+<tr valign=top> 
+                      <td><img height=8 src="/images/square2.gif" 
+                 alt="" width=5></td>
+                      <td><font face="arial, helvetica, sans serif" size=1><a 
+                  href="/media/index.html">Video</a> 
+                        </font></td>
+                    </tr>
+-->
+                    <tr valign=top> 
+                      <td><img height=8 src="/images/square2.gif" 
+                 alt="" width=5></td>
+                      <td><font face="arial, helvetica, sans serif" size=1><a 
+                  href="/news/briefings/">Press Briefings</a> 
+                        </font></td>
+                    </tr>
+                    <tr valign=top> 
+                      <td><img height=8 src="/images/square2.gif" 
+                 alt="" width=5></td>
+                      <td><font face="arial, helvetica, sans serif" size=1><a 
+                  href="/news/proclamations/">Proclamations</a> 
+                        </font></td>
+                    </tr>
+
+
+                    <tr valign=top>
+                     <td height="11"><img height=8 src="/images/square2.gif" alt="" width=5></td>
+                     <td height="11"><font face="arial, helvetica, sans serif" size=1>
+                      <a href="/news/orders/">Executive Orders</a>
+                     </font></td>
+                    </tr>
+
+                    <tr valign=top>
+                     <td height="11"><img height=8 src="/images/square2.gif" alt="" width=5></td>
+                     <td height="11"><font face="arial, helvetica, sans serif" size=1>
+                      <a href="/radio/">Radio</a>
+                     </font></td>
+                    </tr>
+
+		<tr valign=top>
+		  <td colspan="2"><font face="arial, helvetica, sans serif" size="2" color="#666666">
+		   <br>
+		   <b>Talk Back</b>
+		  </font></td>
+		 </tr>
+
+		<tr valign=top>
+		   <td><img src="/images/square2.gif" height=8 alt="" width=5></td>
+		   <td> <font color="#000000" face="arial, helvetica, sans serif" size=1>
+		   <a href="/ask/">Ask the White House</a></font></td>
+		</tr>
+
+		<tr valign=top>
+		   <td><img src="/images/square2.gif" height=8 alt="" width=5></td>
+		   <td> <font color="#000000" face="arial, helvetica, sans serif" size=1>
+		   <a href="/interactive/">White House Interactive</a></font></td>
+		</tr>
+
+                    <tbody> </tbody> 
+                  </table>
+                  <br>
+                  <b><font face="arial, helvetica, sans serif" size="2" color="#666666">Appointments</font></b></td>
+              </tr>
+
+                    <tr valign=top>
+                     <td height="11"><img height=8 src="/images/square2.gif" alt="" width=5></td>
+                     <td height="11"><font face="arial, helvetica, sans serif" size=1>
+                      <a href="/news/nominations/">Nominations</a>
+                     </font></td>
+                    </tr>
+
+              <tr valign=top> 
+                <td><img height=8 src="/images/square2.gif" 
+                 alt="" width=5></td>
+                <td><font color=#000000 
+            face="arial, helvetica, sans serif" size=1><a 
+            href="/appointments/"> Application</a> </font><font face="arial, helvetica, sans serif" size=1> 
+                  </font></td>
+              </tr>
+
+
+<tr valign=top>
+<td colspan="2"><font face="arial, helvetica, sans serif" size="2" color="#666666"><br>
+<b>Offices</b></font></td></tr>
+<tr valign=top>
+<tr valign=top><td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/ogc/">Global Comm</a></font></td></tr>
+<td valign="top"><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/infocus/freedomcorps/">Freedom Corps</a></font></td></tr>
+<tr valign=top>
+<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/infocus/faith-based/">Faith-Based & Community </a></font></td></tr>
+<tr valign=top><td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/omb/">OMB</a></font></td></tr>
+<tr valign=top> 
+<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/government/eop.html">More Offices</a></font></td></tr>
+
+<!-- * * * * *BEGIN MAJOR SPEECHES * * * * -->
+<tr valign=top> 
+  <td colspan="2"><font face="arial, helvetica, sans serif" size="2" color="#666666">
+   <br>
+   <b>Major Speeches</b>
+  </font></td>
+ </tr>
+
+<tr valign=top>
+	<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td>
+ 	<font color="#000000" face="arial, helvetica, sans serif" size=1>
+	<a href="/news/releases/2004/12/20041216-2.html">Economic Conference</a></font></td>
+</tr>
+
+<tr valign=top>
+	<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td>
+ 	<font color="#000000" face="arial, helvetica, sans serif" size=1>
+	<a href="/news/releases/2004/12/20041207-2.html">Thanking Troops</a></font></td>
+</tr>
+
+<tr valign=top>
+	<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td>
+ 	<font color="#000000" face="arial, helvetica, sans serif" size=1>
+	<a href="/news/releases/2004/12/20041206-2.html">Iraq Meeting</a></font></td>
+</tr>
+
+<tr valign=top>
+	<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td>
+ 	<font color="#000000" face="arial, helvetica, sans serif" size=1>
+	<a href="http://www.whitehouse.gov/news/releases/2004/11/20041130-4.html">Canada Remarks</a></font></td>
+</tr>
+
+
+<!--
+<tr valign=top>
+<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/news/releases/2003/09/20030923-4.html">UN Address</a></font></td></tr>
+
+<tr valign=top>
+<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/news/releases/2003/09/20030907-1.html">National Address</a></font></td></tr>
+
+<tr valign=top>
+<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/news/releases/2003/05/iraq/20030501-15.html">Iraqi Freedom</a></font></td></tr>
+
+<tr valign=top>
+<td><img src="/images/square2.gif" height=8 alt="" width=5></td><td><font color="#000000" face="arial, helvetica, sans serif" size=1><a href="/news/releases/2003/03/20030319-17.html">National Address</a></font></td></tr>
+-->
+
+<tr valign=top> 
+	<td height="11" colspan="2"><p>&nbsp</P></td>
+</tr>
+              <tr valign=top> 
+                <td height="11" colspan="2"><font face="Arial, Helvetica, sans-serif" size="1">
+<a href="/president/gallery/photoessay/"><!-- <img src="/images/porticop30121-01-pm-100h.jpg" width="100" height="105" alt="Photo Essays" border="0"> -->
+<img src="/images/home-photos20041025.jpg" width="100" height="105" alt="Photo Essays" border="0"></a></font></td> 
+              </tr>
+              <tr valign=top> 
+                <td height="11"><img height=8 src="/images/square2.gif" 
+                 alt="" width=5></td>
+                <td height="11"><font 
+            face="Arial, Helvetica, Sans Serif" size=1><a 
+            href="/president/gallery/photoessay/">Photo 
+                  Essays</a></font></td>
+              </tr>
+               <tr valign=top>
+                <td height="11"><img height=8 src="/images/square2.gif"
+                 alt="" width=5></td>
+                <td height="11"><font
+            face="Arial, Helvetica, Sans Serif" size=1><a
+            href="/cgi-bin/searchphotos.cgi">Search photos by date</a></font></td>
+              </tr>
+<tr valign=top>
+        <td height="11" colspan="2"><p>&nbsp</P></td>
+</tr>
+<tr>
+	<td colspan="2"><a href="/features/index.html"">
+<img src="/images/features-bnr.gif" width="100" height="105" alt="White House Features - A Gallery of our special pages" border="0"></a></td>
+</tr>
+
+            </table>
+          </td>
+        </tr>
+        </tbody> 
+      </table>
+
+
+     <IMG SRC="/images/pixel.gif" WIDTH="110" HEIGHT="1" alt="">
+
+    </TD></TR></TABLE></TD>
+
+    <TD WIDTH="10" BACKGROUND="/images/vertical2.gif">
+     <IMG SRC="/images/pixel.gif" WIDTH="10" HEIGHT="1" alt="">
+    </TD>
+
+    <TD WIDTH="631">
+     <TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="631">
+      <TR VALIGN="TOP">
+       <TD WIDTH="631"><A NAME="content"><FONT face="arial, helvetica, sans serif" SIZE="2"></A>
+
+ 
+
+        
+<!-- BEGIN -->
+
+
+
+
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=631>
+  <TR vAlign=top> 
+   <TD width=350>
+    <TABLE width="100%" border="0" cellspacing="0" cellpadding="7">
+     <TR>
+      <TD><FONT face="Arial, Helvetica, Sans Serif" size=2>
+       <TABLE border=0 cellpadding=0 cellspacing=0 width="100%">
+        <TR> 
+         <TD valign=center>
+          <FONT face="Arial, Helvetica, sans-serif" size="1" color="#A80404"><b>
+           January 1, 2005 | Last Updated 5:25 p.m. (EST)<BR>&nbsp;<BR>
+          </b></FONT>
+         </TD>
+        </TR>
+       </TABLE>
+       
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="100%">
+<TR><TD>
+<font face="Arial, Helvetica, Sans Serif" size="1">
+
+<font face="Arial, Helvetica, sans-serif" size=3><b><a href="/news/releases/2005/01/20050101.html">President's Radio Address</a></b></font><br><font face="Arial, Helvetica, sans-serif" size="2">In his weekly radio address, President Bush said, &quot;Americans are a compassionate people and we are already hard at work helping those nations meet these challenges.  The United States has pledged $350 million in relief assistance, with $15 million already in the hands of relief organizations in the affected countries.&quot; <a href="/news/releases/2005/01/20050101.html"><img src="/images/fullstory1.gif" width="50" height="10" alt="full story" border="0"></a>  <a href="/news/releases/2005/01/20050101.es.html"><img src="/news/images/espanol.gif" alt="en Espa&#241ol" border="0" width="60" height="10"></a> </font><br><font size="1"><img src="/images/listen.gif" width="10" height="12" align="absbottom" alt="listen"><a href="/news/releases/2005/01/20050101.a.ram"><b>Audio</b></a></font><br>
+</TD>
+</TR>
+<TR>
+<TD>
+<HR noshade width="100%" size="1">
+</TD></TR></TABLE><P>
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="100%">
+<TR><TD>
+<font face="Arial, Helvetica, Sans Serif" size="1">
+
+<font face="Arial, Helvetica, sans-serif" size=3><b><a href="/news/releases/2004/12/20041231-1.html">President Commits $350 Million for Tsunami Relief Efforts</a></b></font><br><font face="Arial, Helvetica, sans-serif" size="2">President Bush on Friday said, "Initial findings of American assessment teams on the ground indicate that the need for financial and other assistance will steadily increase in the days and weeks ahead. Because of this information and based on the recommendation of Secretary Powell and Administrator Natsios, I am today committing $350 million to fund the U.S. portion of the relief effort. Our contributions will continue to be revised as the full effects of this terrible tragedy become clearer." 
+ <a href="/news/releases/2004/12/20041231-1.html"><img src="/images/fullstory1.gif" width="50" height="10" alt="full story" border="0"></a>  </font><br>
+</TD>
+</TR>
+<TR>
+<TD>
+<HR noshade width="100%" size="1">
+</TD></TR></TABLE><P>
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="100%">
+<TR><TD>
+<font face="Arial, Helvetica, Sans Serif" size="1">
+
+<font face="Arial, Helvetica, sans-serif" size=3><b><a href="/news/releases/2004/12/20041230-2.html">President to Send Delegation to Assess Tsunami Relief Aid</a></b></font><br><font face="Arial, Helvetica, sans-serif" size="2">President Bush on Thursday said, "On Sunday, January 2, I will send a delegation of experts to the affected areas to meet with regional leaders and international organizations to assess what additional aid can be provided by the United States." <a href="/news/releases/2004/12/20041230-2.html"><img src="/images/fullstory1.gif" width="50" height="10" alt="full story" border="0"></a>  </font><br>
+</TD>
+</TR>
+<TR>
+<TD>
+<HR noshade width="100%" size="1">
+</TD></TR></TABLE><P>
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="100%">
+<TR><TD>
+<font face="Arial, Helvetica, Sans Serif" size="1">
+
+<font face="Arial, Helvetica, sans-serif" size=3><b><a href="/ask/20041230.html">Tsunami Relief Efforts Discussed</a></b></font><br><font face="Arial, Helvetica, sans-serif" size="2"><a href="/ask/20041230.html"><img src="/government/images/anatsios-50.jpg" align="left" border="0" width="50" height="66"></a>
+
+Andrew Natsios, USAID Administrator, answered your questions on the ongoing relief efforts for tsunami victims Thursday.
+ 
+ <a href="/ask/20041230.html"><img
+                      src="/images/fullstory1.gif" width="50" height="10"
+                      alt="full story" border="0"></a>
+</font><br>
+</TD>
+</TR>
+<TR>
+<TD>
+<HR noshade width="100%" size="1">
+</TD></TR></TABLE><P>
+<TABLE CELLPADDING="0" CELLSPACING="0" BORDER="0" WIDTH="100%">
+<TR><TD>
+<font face="Arial, Helvetica, Sans Serif" size="1">
+
+<font face="Arial, Helvetica, sans-serif" size=3><b><a href="/news/releases/2004/12/20041229-1.html">President Discusses Support for Earthquake and Tsunami Victims</a></b></font><br><font face="Arial, Helvetica, sans-serif" size="2">President Bush on Wednesday said, "These past few days have brought loss and grief to the world that is beyond our comprehension. The United States will continue to stand with the affected governments as they care for the victims."   <a href="/news/releases/2004/12/20041229-1.html"><img src="/images/fullstory1.gif" width="50" height="10" alt="full story" border="0"></a>  </font><br><font size="1"><img src="/images/listen.gif" width="10" height="12" align="absbottom" alt="listen"><a href="/news/releases/2004/12/20041229-1.a.ram"><b>Audio</b></a></font><br><font size="1"><img src="/images/text4.gif" width="10" height="10" align="absbottom" alt="Fact sheet"><a href="/goodbye/4df4ede9b90aabc1dc4a48128bb8fca7b0f905b0.html"><b>For more information on US Humanitarian Assistance and how you can help . . .</b></a><br></font>
+</TD>
+</TR>
+<TR>
+<TD>
+<HR noshade width="100%" size="1">
+</TD></TR></TABLE>
+
+
+        <BR>
+        <A href="http://www.whitehouse.gov/news/"><IMG alt=" More White House News" border=0 height=20 src="/images/morewhnews.gif" width=150></A>
+        <BR>
+       </P>
+      </FONT></TD>
+     </TR>
+    </TABLE>
+   </TD>
+   <TD rowSpan=3 width=1>&nbsp;</TD>
+   <TD width=300> 
+    <TABLE border=0 cellPadding=7 cellSpacing=0 width="300">
+     <TR valign="top"> 
+      <TD> 
+       <TABLE width="300" border="0" cellspacing="0" cellpadding="0">
+        <TR valign="top"> 
+         <TD><FONT face="Arial, Helvetica, Sans Serif" size="1" color="#666666">
+
+<a href="/news/releases/2004/12/images/20041229-1_phonecall-3-515h.html"><img src="/news/releases/2004/12/images/20041229-1_phonecall-3-298h.jpg" alt="President George W. Bush speaks with Sri Lankan President Chandrika Kumaratunga during a phone call in Crawford, Texas, Wednesday, Dec. 29, 2004. White House photo by Eric Draper." border="0" width="299" height="216"></a>
+President George W. Bush speaks with Sri Lankan President Chandrika Kumaratunga during a phone call in Crawford, Texas, Wednesday, Dec. 29, 2004. 
+
+        </FONT></TD>
+        </TR>
+       </TABLE>
+      </TD>
+     </TR>
+     <TR valign="top"> 
+      <TD width="300"> 
+<TABLE border=0 cellPadding=0 cellSpacing=0 width="300">
+ <TR> 
+  <TD bgColor=#999999 colSpan=3 height=1><IMG alt="" height=1 src="/images/pixel.gif"></TD>
+ </TR>
+ <TR> 
+  <TD bgColor=#999999 width=1><IMG alt="" src="/images/pixel.gif" width=1></TD>
+  <TD width="298"><FONT face="Arial, Helvetica, Sans Serif" size=1> 
+
+  <TABLE border=0 cellPadding=0 cellSpacing=1 width="300">
+   <TR> 
+    <TD colSpan=5 height=4><IMG alt="" height=8 src="/images/pixel.gif"></TD>
+   </TR>
+   <TR> 
+    <TD width=4><IMG alt="" src="/images/pixel.gif" width=4></TD>
+    <TD colSpan=3 vAlign=top>
+       <table width="282" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+ <td colspan="2" bgcolor="#003366">
+ <a href="/ask/"><img src="/images/ask_the_white_house.gif" border="0" alt="Ask the White House" width="290" height="25"></a></td> </tr>
+ </table>
+
+     <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+     <tr valign="top">
+     <td>
+     <center>
+     <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+         <tr valign="top">
+         <td>
+         <p>
+	 <font face="arial, helvetica, sans-serif" size="2"><center><a
+	 href="/ask/20041230.html"><b>Tsunami Relief Efforts Discussed</b></a></center></font><font 
+	face="Arial, Helvetica,
+	 sans-serif" size=1>
+Andrew Natsios, USAID Administrator, answered your questions on the ongoing relief efforts for tsunami victims Thursday.
+<a href="/ask/20041230.html">Read the Full Transcript</a>.
+</font></td> <td valign="top"><a href="/ask/20041230.html"><img src="/government/images/anatsios-50.jpg" alt="Ask the White House"
+	 border="0"  width="50" height="66"></a></td>
+
+         </tr>
+     </table>
+     </center>
+     </td>  
+     </tr>   
+     </table>
+
+
+
+<table width="282" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+ <td colspan="2" bgcolor="#003366">
+ <a href="/president/gallery/photoessay/"><img src="/images/inside-photoessays.gif" border="0" alt="Photo Essays" width="290" height="25"></a></td>
+</tr>
+ </table>  
+
+     <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+     <tr valign="top">
+     <td>
+     <center>
+     <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+
+         <tr valign="top">
+         <td>
+	 <font face="arial, helvetica, sans-serif" size="2"><center>
+	<a href="/president/gallery/photoessay/"><b>White House Photo Essays</b></a></center></font><font face="Arial, Helvetica,
+	 sans-serif" size=1>
+         <font size="1">
+The White House photographers document the President's travels and events
+at the White House.  <a href="/president/gallery/photoessay/">Click
+here</a> to see photographs of the White House Holiday Decorations as
+well as what's new at the White House.</a> <br>
+
+	</font>
+	</td> 
+	<td valign="top"><DIV ID="thumbnail"><a href="/president/gallery/photoessay/"><IMG SRC="/images/photoessays-thumb.jpg" ALT="White House Photo Essays" BORDER="0" width="70" height="62"></a></DIV></td>
+         </tr>
+
+     </table>
+     </center>
+     </td>  
+     </tr>   
+     </table>
+
+
+<table width="282" border="0" cellpadding="0" cellspacing="0">
+ 	<tr>
+ 		<td colspan="2" bgcolor="#003366">
+ 		<a href="/holiday/"><img src="/images/inside-holiday04-ani.gif" border="0" alt="A Season of
+Merriment and Melody" width="290" height="25"></a></td> 
+	</tr>
+ </table>
+ <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+ 	<tr valign="top">
+     <td>
+     <center>
+     <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+         <tr valign="top">
+         <td>
+         <p>
+	 <font face="arial, helvetica, sans-serif" size="2"><center><a href="/holiday/">
+	 <b>Holidays at the White House</b></a></center></font><font face="Arial, Helvetica,
+	 sans-serif" size="1">
+The White House is celebrating a 'Season of Merriment and Melody' throughout the holidays.  <a href="/holiday/">Click
+here</a> to view photos
+and learn more about the decorations and events.
+</font></td> 
+	 <td valign="top"><a href="/holiday/"><img src="/images/inside-holiday04-thumb.jpg"
+alt="Ready to Read - Just Click Here" border="0" width="75" height="75"></a></td>
+         </tr>
+     </table>
+     </center>
+     </td>  
+     </tr>   
+     </table>
+
+
+
+<table width="282" border="0" cellpadding="0" cellspacing="0">
+ <tr>
+ <td colspan="2" bgcolor="#003366">
+ <a href="/barney/"><img src="/barney/images/inside-barney1.gif"
+border="0" alt="Barney" width="290" height="25"></a></td>
+</tr>
+ </table>
+
+     <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+     <tr valign="top">
+     <td>
+     <center>
+     <table width="282" bgcolor="#efefef" border="0" cellpadding="4" cellspacing="0">
+
+         <tr valign="top">
+         <td>
+	 <font face="arial, helvetica, sans-serif" size="2"><center><a href="/barney/">
+	<b>The First Dog</b></a></center></font><font face="Arial, Helvetica,
+	 sans-serif" size=1>
+         <font size="1">
+What's up with the President's Scottish Terrier, Barney?  We'll keep you posted on his happenings.  <a
+href="/barney/">Click here to view Barney Cam.</a>
+<br>
+
+	</font>
+	</td> 
+	<td valign="top"><a href="/barney/"><img src="/barney/images/thumb-20041217.jpg" alt="What's up with the President's
+First Dog?" 
+border="0" width="75" height="50"></a></td>
+         </tr>
+
+     </table>
+     </center>
+     </td>  
+     </tr>   
+     </table>
+
+
+    </TD>
+    <TD width=4><IMG alt="" src="/images/pixel.gif" width=4></TD>
+   </TR>
+   <TR>
+    <TD colSpan=5 height=4><IMG alt="" height=8 src="/images/pixel.gif"></TD>
+   </TR>
+  </TABLE>
+  </FONT></TD>
+  <TD bgColor=#999999 width=1><IMG alt="" src="/images/pixel.gif" width=1></TD>
+  </TR>
+ <TR>
+  <TD bgColor=#999999 colSpan=3 height=1><IMG alt="" height=1 src="/images/pixel.gif"></TD>
+ </TR>
+</TABLE>
+      </TD>
+     </TR>
+    </TABLE>
+   </TD>
+  </TR>
+ </TABLE>
+<!-- CRON TEST -->
+
+<!-- END -->
+
+
+    <BR><BR>
+
+    <CENTER><TABLE BORDER="0" CELLSPACING="0" CELLPADDING="0" WIDTH="535">
+
+     <TR><TD ALIGN="CENTER"><FONT face="arial, helvetica, sans serif" SIZE="1">
+
+      <P>
+       <A href="/president/">President</A>&nbsp;
+       |&nbsp;
+       <A href="/vicepresident/">Vice President</A>&nbsp;
+       |&nbsp;
+       <A href="/firstlady/">First Lady</A>&nbsp;
+       |&nbsp;
+       <A href="/mrscheney/">Mrs. Cheney</A>&nbsp;
+       |&nbsp;
+       <A href="/news/">News &amp; Policies</A>&nbsp;
+       <BR>
+       <A href="/history/">History &amp; Tours</A>
+       |&nbsp;
+       <A href="/kids/">Kids</A>&nbsp;
+       |&nbsp;
+       <A href="/government/">Your Government</A>&nbsp;
+       |&nbsp;
+       <A href="/appointments/">Appointments</A>&nbsp;
+       |&nbsp;
+       <A href="/oa/jobs/">Jobs</A>
+       |&nbsp;
+       <A href="/contact/">Contact</A>
+       |&nbsp;
+       <A href="/text/index.html">Text only</A>
+      </P>
+
+      <BR>
+
+      <P>
+       <A href="/accessibility.html">Accessibility</A>&nbsp;
+       |&nbsp;
+       <A href="/search/">Search</A>&nbsp;
+       |&nbsp;
+       <A href="/privacy.html">Privacy Policy</A>&nbsp;
+       |&nbsp;
+       <A href="/help.html">Help</A>
+      </P>
+
+     </FONT></TD></TR>
+
+    </TABLE></CENTER>
+
+        <IMG SRC="/images/pixel.gif" WIDTH="631" HEIGHT="1" alt="">
+
+       </FONT></TD>
+      </TR>
+     </TABLE>
+    </TD>
+
+   </TR>
+
+  </TABLE>
+
+<SCRIPT src="/js/stat.js" language="javascript" TYPE="text/javascript"></SCRIPT>
+<NOSCRIPT>
+ <IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.wtlive.com/DCSArO55rNH8I36lrbe6wexE5_5B8I/njs.gif?dcsuri=/nojavascript&dcscfg=00000001">
+</NOSCRIPT>
+
+
+ </BODY>
+
+</HTML> 

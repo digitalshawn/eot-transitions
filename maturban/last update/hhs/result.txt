@@ -1,0 +1,7 @@
+1    http://web.archive.org/web/20010202073400id_/http://hhs.gov/                 1173455085861315074  0   0                 0      
+2    http://web.archive.org/web/20010224161552id_/http://www.hhs.gov/             5785141104288702978  1   0.000339985236715 495    
+3    http://web.archive.org/web/20010226181338id_/http://www.hhs.gov/             5785141104288702978  0   0.0               0      
+4    http://web.archive.org/web/20010301083023id_/http://www.hhs.gov/             1173455085861315074  1   0.000154951498765 258    
+5    http://web.archive.org/web/20010304135554id_/http://www.hhs.gov              9442685870242798549  38  0.0871258864357   9662   
+6    http://web.archive.org/web/20010331142730id_/http://www.hhs.gov/             1173455085861315074  38  0.0885104562677   9729   
+7    http://web.archive.org/web/20050112093123id_/http://www.hhs.gov/             4651497078334010036  30  0.117219738653    17820  
