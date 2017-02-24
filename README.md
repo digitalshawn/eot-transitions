@@ -1,9 +1,13 @@
 # End of Term Transitions
 
 Mohamed Aturban
+
 Justin Littman
+
 Jessica Ogden
+
 Yu Xu
+
 Shawn Walker
 
 ## Project Background
