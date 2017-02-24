@@ -11,6 +11,7 @@ from scipy.spatial.distance import cosine
 import unicodedata
 import sys
 from nltk.metrics.distance import edit_distance as nltk_edit_distance
+from bs4 import BeautifulSoup
 
 tbl = dict.fromkeys(i for i in range(sys.maxunicode) if unicodedata.category(chr(i)).startswith('P'))
 
@@ -29,7 +30,8 @@ def fetch_page(url):
             text = f.read()
     else:
         html = requests.get(url).text
-        text = html2text.html2text(html)
+        # text = html2text.html2text(html)
+        text = BeautifulSoup(html, "html.parser").get_text()
         with open(text_filepath, 'w') as f:
             f.write(text)
     return text
@@ -58,7 +60,7 @@ def tokenize(text):
 def tfidf(text1, text2):
     tf_idf = TfidfVectorizer(tokenizer=tokenize, stop_words='english')
     tfs = tf_idf.fit_transform([text1, text2])
-    return cosine(tfs[0].todense(), tfs[1].todense())
+    return (tfs*tfs.T).A[0,1]
 
 
 def url_to_filename(url):
