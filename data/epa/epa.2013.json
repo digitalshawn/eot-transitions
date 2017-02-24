@@ -8,8 +8,8 @@
   "rows": [{"c":[{"v": "Date(2013, 1, 1)", "f": "1/1/13"},
     {"v": 27},
     {"v": 0},
-             {"v": "http://web.archive.org/web/20130101065220id_/http://www.epa.gov/"},
-             {"v": "<img src=\"https://raw.githubusercontent.com/digitalshawn/eot-transitions/master/thumbnails/epa/2013/thumb-epa.gov-20130101065220.png\">"}
+             {"v": "January 1, 2013"},
+             {"v": "<a href=\"http://web.archive.org/web/20130101065220id_/http://www.epa.gov/\"><img src=\"https://raw.githubusercontent.com/digitalshawn/eot-transitions/master/thumbnails/epa/2013/thumb-epa.gov-20130101065220.png\" border=0></a>"}
         ]},
          {"c":[{"v": "Date(2013, 1, 3)", "f": "1/3/13"},
            {"v": 0},
