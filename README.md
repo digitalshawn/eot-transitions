@@ -28,7 +28,7 @@ Indenpedent variable 2: The abolsute number of the time distance to the inaugura
 Independent variable 3: Power transitions between the two parties (coded as 1, otherwise coded as 0)
 There are two measures for the rate of change: 1. The simhash score; 2. The tf-idf score.
 
-Methods: we estimated fixed-effects models by using the raw scores for time-variant variables across waves. By focusing merely on intra-level variation, our fixed-effects models account for unobserved heterogeneity between observations and control for the effects of stable characteristics／factors on the dependent variables (Allison, 2009). 
+Methods: we estimated fixed-effects models by using the raw scores for time-variant variables across waves. By focusing merely on intra-level variation, our fixed-effects models account for unobserved heterogeneity between observations and control for the effects of stable characteristics／factors on the dependent variables (Allison, 2009). By doing this, we are able to make a stronger causal claim.
 
 Results: 
 1. Power transistions between the two parties reduces the rate of change of the Whitehouse webiste. But the transitions lead to an increase in the change rate of the websites of EPA, HHS, and VA.
