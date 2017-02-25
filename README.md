@@ -20,7 +20,7 @@ The team brainstormed various achievable metrics for observing change in the web
 * Edit Distance
 * Link Structure
 
-## Regresssion Analysis
+## Regression Analysis
 We propose three possible mechanisms that can explain the variations in the rate of change of governmental websites during the period of term transition.
 
 Independent variable 1: The date that is after the presidential inaguration (coded as 1, otherwise coded as 0)
@@ -38,6 +38,8 @@ Results:
 ## Broad Findings
 
 ## Future directions
-1. Explaining why power transitions can generate differtial effects on the rate of change of different governmental websites.
+1. For the regression analysis - explaining why power transitions can generate differtial effects on the rate of change of different governmental websites.
+2. Looking at the other domains which we identified - we generated the metrics for each domain identified, but they need to be plugged into the graph for 'deep diving'.
+3. Looking at other pages beyond the home page - we preliminarily identified some pages such as 'mission statements' and 'about pages' that may be another window into changes in gov web presence at times of transition.
 
 
