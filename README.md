@@ -36,6 +36,7 @@ Results:
 2. Distance to the inauguration date increase the rate of change of the Whitehouse website.
 
 ## Broad Findings
+We plotted the simhash and TF/IDF measurements in a Google chart that linked the thumbnails and directly to the memento in Wayback Machine. This plot is proposed to use as a mechanism for 'deep diving' into places in the web archive where moments of change happen, to see what kinds of changes were present.
 
 ## Future directions
 1. For the regression analysis - explaining why power transitions can generate differtial effects on the rate of change of different governmental websites.
