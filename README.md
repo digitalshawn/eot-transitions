@@ -11,7 +11,7 @@ Yu Xu (University of Southern California)
 Shawn Walker (University of Washington)
 
 ## Project Background
-This project came about as part of the Archives Unleashed 3.0 event hosted at the Internet Archive Feb 23-24, 2017. The group came together around an interest in using the End of Term web archives to assess change in the web presence of each presidential administration - at the time of transition. We hoped to use multiple ways of characterising six government domains over a three month period around the  2001/2005/2009/2013/2017 transitions. The goal was to assess whether the rate and type of change between different administrations. The following is a sketch of what we did and some of our preliminary findings.
+This project came about as part of the Archives Unleashed 3.0 event hosted at the Internet Archive Feb 23-24, 2017. The group came together around an interest in using the End of Term web archives to assess change in the web presence of each presidential administration - at the time of transition. We hoped to use multiple ways of characterising six government domains over a three month period around the  2001/2005/2009/2013/2017 transitions. The goal was to assess whether the rate and type of change between administrations could be characterised as different, or indeed if they are in fact largely similar in terms of rate and types of changes to each website. The following is a sketch of what we did and some of our preliminary findings.
 
 ## Metrics for measuring change
 The team brainstormed various achievable metrics for observing change in the web presence of each administration.
@@ -39,8 +39,8 @@ Results:
 We plotted the simhash and TF/IDF measurements in a Google chart that linked the thumbnails and directly to the memento in Wayback Machine. This plot is proposed to use as a mechanism for 'deep diving' into places in the web archive where moments of change happen, to see what kinds of changes were present.
 
 ## Future directions
-1. For the regression analysis - explaining why power transitions can generate differtial effects on the rate of change of different governmental websites.
-2. Looking at the other domains which we identified - we generated the metrics for each domain identified, but they need to be plugged into the graph for 'deep diving'.
-3. Looking at other pages beyond the home page - we preliminarily identified some pages such as 'mission statements' and 'about pages' that may be another window into changes in gov web presence at times of transition.
+1. For the regression analysis - explaining why power transitions can generate differetial effects on the rate of change of different governmental websites.
+2. Looking at the other domains which we identified - we generated the metrics for each domain identified, but they need to be plugged into the graph for 'deep diving' and further assessment.
+3. Looking at other pages beyond the home page - we preliminarily identified some pages such as 'mission statements' and 'about pages' that may be another window into changes in government web presence at times of transition.
 
 
