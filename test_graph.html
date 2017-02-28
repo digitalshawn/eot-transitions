@@ -1,0 +1,40 @@
+
+<html>
+  <head>
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+google.charts.load('current', {
+  'packages': ['annotationchart']
+});
+google.charts.setOnLoadCallback(drawChart);
+
+function drawChart() {
+  var jsonData = $.ajax({
+          url: "https://raw.githubusercontent.com/digitalshawn/eot-transitions/master/wh-2017.json",
+          dataType: "json",
+          async: false
+          }).responseText;
+
+      // Create our data table out of JSON data loaded from server.
+      var data = new google.visualization.DataTable(jsonData);
+  var data = new google.visualization.DataTable(jsonData);
+  var chart = new google.visualization.AnnotationChart(document.getElementById('chart_div'));
+
+  var options = {
+    "displayAnnotations": true,
+    "allowHtml": true,
+    "annotationsWidth": 30,
+    "height":600
+  };
+
+  chart.draw(data, options);
+}
+</script>
+</head>
+
+<body>
+<!--Div that will hold the pie chart-->
+<div id="chart_div"></div>
+</body>
+</html>
