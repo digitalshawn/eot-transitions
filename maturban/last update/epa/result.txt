@@ -1,5 +1,0 @@
-1    http://web.archive.org/web/20010106115700id_/http://www.epa.gov/             661512306876562036   0   0                 0      
-2    http://web.archive.org/web/20010107184300id_/http://www.epa.gov/             661512306876562036   0   3.33066907388e-16 0      
-3    http://web.archive.org/web/20010201072500id_/http://www.epa.gov/             220159543394310780   7   0.00173134481583  4670   
-4    http://web.archive.org/web/20010202065900id_/http://epa.gov/                 220159543394310780   0   5.67497084925e-05 240    
-5    http://web.archive.org/web/20010224173948id_/http://www.epa.gov/             238173950493604468   5   0.00192033650088  2805   

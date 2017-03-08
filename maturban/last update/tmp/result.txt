@@ -1,2 +1,0 @@
-1    http://web.archive.org/web/20010107185700id_/http://www.whitehouse.gov/      3159481403176665660  0   0                 0      
-2    http://web.archive.org/web/20010118201800id_/http://www.whitehouse.gov/      10005941271981196988 14  0.0261309146509   3518   

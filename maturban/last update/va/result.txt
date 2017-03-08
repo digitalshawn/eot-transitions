@@ -1,2 +1,0 @@
-1    http://web.archive.org/web/20010105122700id_/http://www.va.gov/              4615338582832779970  0   0                 0      
-2    http://web.archive.org/web/20010106142500id_/http://www.va.gov/              4615338582832779970  0   1.11022302463e-16 0      
